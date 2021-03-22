@@ -1,10 +1,6 @@
-Sosyal mühendisliğe genel bakış
-Social Engineering Engagement Framework (SEEF)
-Sosyal mühendislik sızma testi için adımlar
-Farklı makine öğrenimi modellerini kullanarak gerçek zamanlı bir oltalama saldırı tespiti
-    -Lojistik regresyon ile oltalama tespiti
-    -Karar ağaçlarıyla oltalama tespiti
-    -Doğal dil işleme (NLP) ile spam e-posta tespiti 
+# Lojistik regresyon ile oltalama tespiti
+# Karar ağaçlarıyla oltalama tespiti
+# Doğal dil işleme (NLP) ile spam e-posta tespiti 
     
 ###Sosyal Mühendisliğe Genel Bakış###
     
