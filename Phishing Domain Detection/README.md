@@ -1,6 +1,6 @@
-# Lojistik regresyon ile oltalama tespiti
-# Karar ağaçlarıyla oltalama tespiti
-# Doğal dil işleme (NLP) ile spam e-posta tespiti 
+## Lojistik regresyon ile oltalama tespiti
+## Karar ağaçlarıyla oltalama tespiti
+
     
 ###Sosyal Mühendisliğe Genel Bakış###
     
