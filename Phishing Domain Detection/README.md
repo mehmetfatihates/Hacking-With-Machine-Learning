@@ -29,4 +29,3 @@ Suçlular tarafından kullanılan birçok sosyal mühendislik tekniği vardır:
      
     -Lojistik regresyon ile oltalama tespiti
     -Karar ağaçlarıyla oltalama tespiti
-    -Doğal dil işleme (NLP) ile spam e-posta tespiti 
