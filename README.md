@@ -1,4 +1,4 @@
-# HackingWithML
+# Hacking With Machine Learning
 Machine Learning Models and Algorithms for Pentesting
 
 # Python libraries
